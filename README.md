@@ -1,5 +1,5 @@
 # resume
-# Hi there, I'm [Alexahdr]
+# Hi there, I'm [Alexahdr]![](https://github.com/blackcater/blackcater/raw/main/images/Hi.gif) 
 ### Computer science student, IT news writer from Russia 🇷🇺
 <!-- Markdown -->
 
