@@ -1,4 +1,5 @@
 import React, { useState } from 'react'
+// import robot from '../assets/haker3.jpg'
 
 const Test = ({ id }) => {
   const [click, setClick] = useState('')

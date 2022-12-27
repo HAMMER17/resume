@@ -20,10 +20,10 @@ const Header = ({ colors }) => {
           <div className='header_verticale'>
 
             <FaNodeJs fontSize={30} className='header_icon2' />
-            < FaReact fontSize={30} className='header_icon' />
+            < FaReact fontSize={30} className='header_icon' style={{ color: colors }} />
             <FaCss3 fontSize={30} className='header_icon2' />
             <FaHtml5 fontSize={30} className='header_icon2' />
-            <SiRedux fontSize={30} className='header_icon' />
+            <SiRedux fontSize={30} className='header_icon' style={{ color: colors }} />
 
           </div>
         </div>
@@ -35,7 +35,7 @@ const Header = ({ colors }) => {
           you can contact me this is not a big example of a site !
         </p>
         <div className="header_cta">
-          <a href="#contact" className={`btn primary ${colors}`}>Let is Tolk...</a>
+          <a href="#contact" className={`btn primary ${colors}`}>Let is Talk...</a>
           <a href="#portfolio" className='btn light'>My Work!</a>
         </div>
         <div className="header_socials">
